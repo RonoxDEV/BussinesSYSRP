@@ -1,7 +1,7 @@
 # 💼 BusinessSYSRP (Deprecated)
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-blue?style=for-the-badge&logo=minecraft)
-![Forge](https://img.shields.io/badge/Forge-supported-orange?style=for-the-badge&logo=forge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft)
+![Forge](https://img.shields.io/badge/NeoForge-supported-orange?style=for-the-badge&logo=forge)
 ![Roleplay](https://img.shields.io/badge/Type-Roleplay-red?style=for-the-badge)
 
 **BusinessSYSRP** is a specialized mod designed for Minecraft Roleplay servers. It provides advanced tools to manage professional activities, companies, and economic interactions, bringing a new level of immersion to your RP world.
@@ -16,8 +16,8 @@
 * **Server Optimized:** Light code to ensure high performance even on high-population RP servers.
 
 ## 🛠 Technical Details
-* **Engine:** Forge
-* **Target Version:** 1.20.1
+* **Engine:** NeoForge
+* **Target Version:** 1.21.1
 * **Category:** Roleplay / Economy / System
 
 ---
