@@ -22,13 +22,6 @@
 
 ---
 
-## 📸 Media
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+of+Business+GUIs+or+Features+here" alt="BusinessSYSRP Preview" />
-</p>
-
----
-
 ## 📥 Installation
 1. Download the latest `.jar` from the [Releases](https://github.com/RonoxDEV/BussinesSYSRP/releases) section.
 2. Place the file into your `mods` folder.
